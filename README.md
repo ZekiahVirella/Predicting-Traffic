@@ -4,6 +4,8 @@
 Project topic:
         The objective of this project is to investigate, model, and forecast traffic congestion patterns throughout the Atlanta metropolitan region by utilizing high-resolution vehicle trajectory data. GPS locations, vehicle speed, acceleration, and driving patterns over time are all included in the data. We hope to gain a deeper understanding of the fundamental reasons behind traffic jams and driving inefficiencies by looking at these dynamic variables in relation to time and space.
 The increasing demand for intelligent transportation systems and urban traffic optimization is what motivates this study. Traffic congestion is becoming a bigger problem for commuters, planners, and legislators as Atlanta's population continues to grow and car usage increases. Our research offers a data-driven framework for determining trouble spots, assessing how drivers behave, and creating prediction models that estimate the volume of traffic.
+
+
 Goals:
 Examine driver behavior patterns, including acceleration, speed, and frequency of braking, to determine how these behaviors vary in high- and low-traffic areas.
 Create simple predictive models using previous data to forecast future traffic volumes based on location, time of day, and normal vehicle behavior.
