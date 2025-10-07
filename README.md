@@ -11,6 +11,7 @@ Examine driver behavior patterns, including acceleration, speed, and frequency o
 Create simple predictive models using previous data to forecast future traffic volumes based on location, time of day, and normal vehicle behavior.
 Using trajectory data analysis, pinpoint Atlanta's high-congestion areas and peak travel times to help illustrate the locations and times of traffic bottlenecks.
 Create a foundation for future research or real-world applications in smart transportation systems, urban planning, or traffic predictions.
+
 Data Overview:
 To support our analysis and modeling of traffic patterns and driver behavior in the Atlanta metropolitan area, we utilized two primary datasets:
 We used two main datasets to assist in our research and modeling of traffic patterns and driver behavior in the Atlanta metropolitan area:
