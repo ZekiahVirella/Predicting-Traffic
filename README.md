@@ -1,4 +1,4 @@
-# Predicting-Traffic
+# Predicting Traffic
 
 OBJECTIVE: 
 	This project aims to analyze and forecast traffic congestion in the Atlanta metropolitan area using high-resolution vehicle trajectory data, including GPS location, speed, and acceleration. By examining driving behavior across time and space, the study seeks to identify congestion causes, pinpoint problem areas, and support data-driven traffic optimization and intelligent transportation planning.
